@@ -1,0 +1,12 @@
+{
+	"Tecnologia": "Node JS",
+	"Linguagem": "Javascript",
+	"Usado_no": "Backend",
+	"Vantagens": [
+		"Não limita mais o Javascript aos navegadores",
+		"Muito leve",
+		"Pouco uso da memória RAM",
+		"Melhor aproveitamento da CPU",
+		"Grande quantidades de bibliotecas, módulos e plug-ins"
+	]
+}
