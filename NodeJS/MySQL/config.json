@@ -1,0 +1,9 @@
+{
+    "database": {
+        "name": "nodeteste",
+        "user": "root",
+        "password": "12345",
+        "ip": "localhost",
+        "port": 3306
+    }
+}
